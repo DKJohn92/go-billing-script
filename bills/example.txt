@@ -1,0 +1,4 @@
+Bill breakdown: 
+example:                  ...1€ 
+tip:                      ...1€ 
+total:                    ...2.00€
